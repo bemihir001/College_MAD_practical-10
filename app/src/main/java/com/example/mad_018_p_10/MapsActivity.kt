@@ -3,7 +3,7 @@ package com.example.mad_018_p_10
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.example.madpractical10_20012011021.databinding.ActivityMapsBinding
+import com.example.mad_018_p_10.databinding.ActivityMapsBinding
 
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap

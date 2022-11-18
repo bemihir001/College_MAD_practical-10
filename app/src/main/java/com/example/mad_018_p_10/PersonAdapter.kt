@@ -5,7 +5,7 @@ import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.madpractical10_20012011021.databinding.PersonItemViewBinding
+import com.example.mad_018_p_10.databinding.PersonItemViewBinding
 import java.io.Serializable
 
 class PersonAdapter (private val context: Context, private val array:ArrayList<Person>):

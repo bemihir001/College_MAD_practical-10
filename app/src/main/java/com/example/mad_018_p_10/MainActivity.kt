@@ -3,9 +3,9 @@ package com.example.mad_018_p_10
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.view.WindowCompat
-import com.example.madpractical10_20012011021.HttpRequest
-import com.example.madpractical10_20012011021.PersonAdapter
-import com.example.madpractical10_20012011021.databinding.ActivityMainBinding
+import com.example.mad_018_p_10.HttpRequest
+import com.example.mad_018_p_10.PersonAdapter
+import com.example.mad_018_p_10.databinding.ActivityMainBinding
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
